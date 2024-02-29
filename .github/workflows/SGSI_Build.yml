@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V13.0.1.0.RFDCNXM/miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
